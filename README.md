@@ -1,2 +1,3 @@
-# mkr1000-temperature-data
-Wirelessly Tracking Temperature Data with the Arduino MKR1000
+# mkr1000-sf-temperature-data
+Tracking San Francisco's Microclimates with the Arduino MKR1000
+Tutorial: https://www.pubnub.com/blog/2016-06-27-wirelessly-tracking-temperature-data-with-the-arduino-mkr1000
